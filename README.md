@@ -1,2 +1,2 @@
 # Food-Website
-Food ordering website made by HTML5, CSS, Javascript and Bootstrap.
+Front interface of Food ordering website made using HTML5, CSS, Javascript and Bootstrap.
